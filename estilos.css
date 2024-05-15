@@ -1,0 +1,38 @@
+body{
+    color: black;
+    background-image: url(Imagenes/fondo.png);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.container{
+    text-align: center;
+}
+
+.titulos{
+    background-color: rgba(255, 228, 196, 0.534);
+    margin: 8px;
+    margin-top: 80px;
+    border: solid rgba(255, 127, 80, 0.267);
+    padding: 8px;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+}
+
+.pie{
+    background-color: rgba(255, 228, 196, 0.534);
+    color: black;
+    padding: 18px;
+    margin-top: 18px;
+    font-size: small;
+    border-top: solid 2px rgba(255, 127, 80, 0.267);
+}
+
+.imgarmas{
+    width: 256px;
+    height: 300px;
+}
